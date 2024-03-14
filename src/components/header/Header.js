@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 import "./Header.css";
 import baleImage4 from "./ecembale1.jpg";
 export default function Header(){

@@ -8,7 +8,7 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
-import baleImage from "../header/ecembale1.jpg";
+
 export default function Photos() {
 
     return (
