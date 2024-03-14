@@ -1,0 +1,85 @@
+
+.Navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    position:fixed;
+    z-index: 1;
+    
+    
+}
+.Navbar-top{
+    
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 5%;
+    color: #ee5e93;
+}
+.Navbar-top-text{
+    
+    font-size: 1rem;
+    margin: 0.3rem;
+    justify-content: center;
+}
+/* #ffc6d1
+#00174a */
+.Navbar-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    background-color: #ee5e93;
+    color: #01040b;
+    /* gap: 10%; */
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    height: 4rem;
+}
+/* .Navbar-left{
+    padding-right: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+/* .Navbar-left-text{
+    width: 100%;
+    text-align: left;
+}
+.Navbar-left-Header-up{
+    font-size: 1.5rem;
+    margin-top: 0.3rem;
+    margin-bottom:0.1rem;
+}
+.Navbar-left-Header-down{
+    font-size: 0.9rem;
+    margin-top:0.1rem;
+    margin-bottom: 0.3rem;
+} */
+.logo{
+    position: absolute;
+    height: 4rem;
+    left: 30%;
+}
+.Navbar-right{
+    
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    
+    
+}
+.Navbar-right-link{
+    color: #01040b;
+    padding: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+.Navbar-right-link:hover{
+    text-decoration: underline;
+    /* border:1px solid #ffc6d1; */
+    border-radius: 1rem;
+}

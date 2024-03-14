@@ -1,0 +1,29 @@
+.InfoMain{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6rem;
+}
+.InfoMainInner{
+    width: 1200px;
+    max-width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.InfoMainInner > h2{
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+}
+.InfoMainInner > h1{
+    font-size: 1.8rem;
+    margin-bottom: 0.2rem;
+}
+.InfoMainInner > p{
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+    margin-top: 0.4rem;
+    
+}
