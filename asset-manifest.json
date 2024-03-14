@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bale/static/css/main.de72874e.css",
+    "main.js": "/bale/static/js/main.cda8023a.js",
+    "static/js/453.0f5314d6.chunk.js": "/bale/static/js/453.0f5314d6.chunk.js",
+    "static/media/ecembale1.jpg": "/bale/static/media/ecembale1.b269e68964f4e5e9f1b9.jpg",
+    "index.html": "/bale/index.html",
+    "main.de72874e.css.map": "/bale/static/css/main.de72874e.css.map",
+    "main.cda8023a.js.map": "/bale/static/js/main.cda8023a.js.map",
+    "453.0f5314d6.chunk.js.map": "/bale/static/js/453.0f5314d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de72874e.css",
+    "static/js/main.cda8023a.js"
+  ]
+}
